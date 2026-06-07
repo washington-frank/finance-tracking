@@ -1,4 +1,5 @@
-markdown# SmartWallet: Predictive Personal Budgeting
+MARKDOWN
+# SmartWallet: Predictive Personal Budgeting
 
 Final project for the Building AI course project.
 
